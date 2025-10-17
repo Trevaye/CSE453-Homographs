@@ -1,0 +1,4 @@
+// Ignore Python bytecode files
+_pycache_/
+*3pyc
+
